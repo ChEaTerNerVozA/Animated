@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap");
+@import url("https://discordstyles.github.io/SoftX/RadialGlow.css");
+@import url("https://discordstyles.github.io/SoftX/VerticalUserArea.css"); 
+@import url("https://discordstyles.github.io/Addons/windows-titlebar.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.theme.css");
+
+/*
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7227a45a-3d3b-480d-ae57-04bba74e8228/dghxzsw-bf29a26c-f8a1-4b49-b5e9-48af1d055b28.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyMjdhNDVhLTNkM2ItNDgwZC1hZTU3LTA0YmJhNzRlODIyOFwvZGdoeHpzdy1iZjI5YTI2Yy1mOGExLTRiNDktYjVlOS00OGFmMWQwNTViMjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bhjJSq5dlUR61vz291SHRPC-Mq_DwSr8whWt7-k1WqY":root {
+  --background: url(");
+  --font:                       "Inter";
+  --transparencyalpha:          0.7;
+  --transparencycolor:			    0,0,0;
+	--messagetransparency:			  0;
+	--guildchanneltransparency:		0;
+	--chatinputtransparency:		  0;
+	--memberlisttransparency:		  0.3;
+	--accentcolor:					      255,255,255,0.7;
+}
+
+.theme-dark {
+  --text-normal:                #ffffff;
+  --text-muted:                 #ffffff;
+  --header-primary:             #ffffff;
+  --channels-default:           #ffffff;
+  --header-secondary:           #f7f7f7;
+  --interactive-normal:         #ffffff;
+  --interactive-hover:          #180606;
+  --interactive-active:         #ffffff;
+  --background-modifier-accent: #fff2;
+}
+*/
